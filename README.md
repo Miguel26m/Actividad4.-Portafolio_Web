@@ -50,10 +50,14 @@ se ajustara a mi gusto:
 
 A continuación se muestra el portafolio funcionando en el navegador:
 
-![Sección Sobre mí](img/sobremi.png)
+![Sobremi](img/sobremi.png)
+*Imagen de la seccion sobre mi*
 
-![Sección de Proyectos](img/proyectos.png)
+![SecciónProyectos](img/proyectos.png)
+*Imagen de la seccion de mis proyectos*
 
-![Sección de Educación](img/educacion.png)
+![SecciónEducación](img/educacion.png)
+*Imagen de la seccion de mi educación*
 
-![Sección de Skills](img/skills.png)
+![SecciónSkills](img/skills.png)
+*Imagen de la seccion de mmis skills*
