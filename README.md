@@ -28,7 +28,7 @@ Este portafolio fue construido utilizando **HTML5, CSS3 y JavaScript vanilla**.
 El sitio cuenta con diseño responsivo.
 
 1.  **Sobre mí:** Presentación personal, información de contacto directa y enlaces a mis redes profesionales (LinkedIn, GitHub).
-2.  **Proyectos:** Exhibición de trabajos prácticos estructurados en tarjetas (Cards), incluyendo un Sistema de Gestión para Serigrafía, Modelado 3D Interactivo y Administración de Redes.
+2.  **Proyectos:** Presentación de proyectos en los que he trabajados, desde un gestor de ventas e inventarios hasta un CRM.
 3.  **Educación:** Historial académico actual como estudiante de Ingeniería en Sistemas Computacionales en el ITO.
 4.  **Skills:** Representación visual de lenguajes de programación, herramientas de bases de datos y redes, utilizando barras de progreso de Bootstrap para indicar el nivel de dominio.
 
@@ -60,4 +60,4 @@ A continuación se muestra el portafolio funcionando en el navegador:
 *Imagen de la sección de mi educación*
 
 ![SecciónSkills](img/skills.png)
-*Imagen de la sección de mmis skills*
+*Imagen de la sección de mis skills*
